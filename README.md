@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaikh Ahetesham</h1>
 <h3 align="center">Frontend Developer | Angular Specialist | 6+ Years of Experience</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahetesham-sk&label=Profile%20views&color=0e75b6&style=flat" alt="ahetesham-sk" />
-</p>
+<h4 align="center">
+  "There are two ways to write error-free programs; only the third one works. 😂"<br>
+  — <i>Alan J. Perlis</i>
+</h4>
 
 ---
 
@@ -11,7 +12,6 @@
 
 - 🔭 I’m currently working as a **Freelance Frontend Developer**
 - 🌱 I’m currently learning **advanced Angular state management and performance optimization**
-- 👯 I’m looking to collaborate on **modern Angular projects, dashboards, or admin panels**
 - 💬 Ask me about **Angular, TypeScript, REST API integration, SPA development**
 - 📫 Reach me at **[ahetesham.ma@gmail.com](mailto:ahetesham.ma@gmail.com)**  
 - ⚡ Fun fact: I love transforming complex UI requirements into seamless user experiences
@@ -76,3 +76,12 @@
   <a href="https://www.linkedin.com/in/ahetesham-shaikh/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahetesham.ma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
+
+
