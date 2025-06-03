@@ -37,23 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahetesham-sk&show_icons=true&theme=radical" alt="ahetesham-sk" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahetesham-sk&theme=radical" alt="ahetesham-sk" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahetesham-sk&layout=compact&theme=radical" alt="ahetesham-sk" />
-</p>
-
-
----
-
 ### 📌 Featured Projects
 
 - **Hospital Website (Shri Ganesh & Chopra Multi-Specialty)**  
