@@ -58,6 +58,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ahetesham-shaikh/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahetesham.ma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/919403381578" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+</a>
 </p>
 
 ---
